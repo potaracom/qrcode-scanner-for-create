@@ -10,7 +10,7 @@ https://qiita.com/potara/items/4fcad36a16ae1b119e2a
 
 # 利用方法
 
-以下の URL からプラグインファイルの最新版をダウンロードしてください。  
+以下の URL からプラグインファイルの最新版(qrcode-scanner-for-create-verX.plugin.zip)をダウンロードしてください。  
 https://github.com/potaracom/qrcode-scanner-for-create/releases  
 利用を開始すると有効期間が 30 日に設定されます。
 
