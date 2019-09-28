@@ -11,7 +11,7 @@ https://qiita.com/potara/items/4fcad36a16ae1b119e2a
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v2/qrcode-scanner-for-create-ver2.plugin.zip  
+https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v3/qrcode-scanner-for-create-ver3.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,11 @@ https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v2/qrco
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2019/9/28 v3 リリース  
+  カメラの起動ボタンをスタイリッシュに変更  
+  カメラの表示をダイアログに変更  
+  カメラが起動できない場合のエラー対応を追加
 
 - 2019/9/21 v2 リリース  
   カメラ表示のレイアウトを変更
