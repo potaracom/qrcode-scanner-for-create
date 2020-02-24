@@ -11,7 +11,7 @@ https://qiita.com/potara/items/4fcad36a16ae1b119e2a
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v7/qrcode-scanner-for-create-ver7.plugin.zip  
+https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v8/qrcode-scanner-for-create-ver8.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,10 @@ https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v7/qrco
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2020/2/24 v8 リリース  
+  ルックアップフィールドに対応  
+  テーブルのフィールドを選択できないように修正
 
 - 2020/1/19 v7 リリース  
   カメラ起動時の不可を軽減
