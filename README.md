@@ -6,12 +6,12 @@ kintone のレコードに QR コードの内容を直接登録できるプラ�
 # 詳細
 
 以下の URL をご確認ください。  
-https://qiita.com/potara/items/4fcad36a16ae1b119e2a
+https://potara.net/plugin/qrcode-scanner-for-create/
 
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v9/qrcode-scanner-for-create-ver9.plugin.zip  
+https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v10/qrcode-scanner-for-create-ver10.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -26,6 +26,9 @@ https://github.com/potaracom/qrcode-scanner-for-create/releases/download/v9/qrco
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2021/6/25 v10 リリース  
+  テーブル利用時にフィールド設定の初期値を利用するように変更
 
 - 2021/3/11 v9 リリース  
   連続読み込みに対応  
